@@ -7,7 +7,7 @@ Elegant :
 - Crash Event (Q1)
 - Crash Event (S2)
   - Script Event :
-    - <insert se>
+    - Script Event: {0: 323285304, 1: 1, 2: 1, 3: -16902, 4: 0, 5: 0, 6: 0, 7: -14123, 8: -18933}
 ```
 
 Burger King Foot Lettuce :
@@ -20,13 +20,15 @@ Burger King Foot Lettuce :
 Vehicular Manslaughter :
 ```
 - Crash Event (N4)
-  - <insert event>
+  - SCRIPT_ENTITY_STATE_CHANGE_EVENT: 000000000000101100000000111111100101110010010011100000011110100000111110000010111010000
 ```
 
 Steamroller :
 ```
 - Crash Event (T9)
-  - <insert event>
+  - Clone Create: TRAIN{id=40, model=freightcar, pos={-1393.833, -348.27692, 38.66516}, wheel_type=255, wheel_mod=0, radio=0, task=506, track=-1, config=-1, carriage_config=-1}
+- Crash Event (TD)
+  - Clone Create: TRAIN{id=183, model=freightcar, pos={-1393.833, -348.27692, 38.66516}, wheel_type=255, wheel_mod=0, radio=0, task=506, track=-1, config=-1, carriage_config=-1}
 ```
 
 ## Cherax - Default Crashes
@@ -56,7 +58,7 @@ Mount Crash
 
 Sub Crash
 ```
-- Crash Event (PV) from YN_icetea
+- Crash Event (PV)
 ```
 
 Script Event Crash
