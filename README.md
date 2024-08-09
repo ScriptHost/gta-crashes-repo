@@ -104,9 +104,9 @@ Inv. Pickup :
 ```
 
 Did not include :
-Love Letter : Unblockable except by host + doesnt trigger events
-Host : Obviously.
-Blacklist : Obviously.
+- Love Letter : Unblockable except by host + doesnt trigger events
+- Host : Obviously.
+- Blacklist : Obviously.
 
 ## Cherax
 Kick1
